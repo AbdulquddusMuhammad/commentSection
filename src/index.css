@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+* {
+  /* outline: 1px solid red; */
+  /* color: black; */
+  user-select: none;
+  /* box-sizing: border-box; */
+  box-sizing: border-box;
+}
+
+span {
+  background-image: url("../public/images/avatars/");
+}
